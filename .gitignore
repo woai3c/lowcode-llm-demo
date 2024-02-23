@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 pytorch_model.bin
+node_modules
 
 # C extensions
 *.so
