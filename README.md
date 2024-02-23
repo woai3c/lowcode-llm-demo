@@ -26,6 +26,14 @@ python ./web-demo.py
 
 **注意**：如果运行后没有任何反应，也没有报错，程序直接结束。说明系统资源不足，请关掉无关的程序后，再重新运行。
 
+### 低代码示例
+
+`prompts` 目录里有两个 markdown 文件，是关于生成低代码页面的 prompt。可以直接复制里面的文本跟模型交互。它会返回一个 JSON 字符串，然后把这个 JSON 放到[低代码平台](https://woai3c.github.io/visual-drag-demo/)里导入使用，可以直接生成页面。
+
+![cli 截图](imgs/lowcode-page3.png)
+
+不过 chatglm-6b 模型的生成结果不是很理想，生成的 JSON 不一定能直接使用，如果有 chatgpt 的话，最好使用 chatgpt 来生成。
+
 ## DEMO 截图
 
 ![cli 截图](imgs/lowcode.jpg)
