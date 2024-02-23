@@ -8,6 +8,9 @@
 
 模型文件太大，无法上传到 GitHub，需要自行下载。打开这个地址 <https://huggingface.co/THUDM/chatglm-6b-int4/tree/main> 找到模型文件 `pytorch_model.bin`，文件右边有一个向下箭头，点击下载。然后放到项目根目录下。
 
+### TDM-GCC 编译错误
+按照文章中的要求安装了 TDM-GCC 后发现编译 `quantization_kernels_parallel.c` 文件错误，卸载 TDM-GCC 后换了 [MinGW-w64](https://www.mingw-w64.org/downloads/) 就好了。
+
 ## 使用
 
 通过命令行使用：
