@@ -1,3 +1,4 @@
+本分支使用的是 Azure Openai 部署的 chatgpt api 服务示例代码，如果想查看 chatglm-6b 示例代码，请查看 [main](https://github.com/woai3c/lowcode-llm-demo/tree/main) 分支。
 ## 安装
 
 ```sh
