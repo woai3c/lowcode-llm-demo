@@ -133,6 +133,353 @@
       "height": 200,
       "borderRadius": ""
     }
+  },
+  {
+    "animations": [],
+    "events": {},
+    "groupStyle": {},
+    "isLock": false,
+    "collapseName": "style",
+    "linkage": {
+      "duration": 0,
+      "data": [
+        {
+          "id": "",
+          "label": "",
+          "event": "",
+          "style": [
+            {
+              "key": "",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    "component": "RectShape",
+    "label": "矩形",
+    "propValue": "&nbsp;",
+    "icon": "juxing",
+    "style": {
+      "rotate": 0,
+      "opacity": 1,
+      "width": 200,
+      "height": 200,
+      "fontSize": "",
+      "fontWeight": 400,
+      "lineHeight": "",
+      "letterSpacing": 0,
+      "textAlign": "center",
+      "color": "",
+      "borderColor": "#000",
+      "borderWidth": 1,
+      "backgroundColor": "",
+      "borderStyle": "solid",
+      "borderRadius": "",
+      "verticalAlign": "middle"
+    }
+  },
+  {
+    "animations": [],
+    "events": {},
+    "groupStyle": {},
+    "isLock": false,
+    "collapseName": "style",
+    "linkage": {
+      "duration": 0,
+      "data": [
+        {
+          "id": "",
+          "label": "",
+          "event": "",
+          "style": [
+            {
+              "key": "",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    "component": "LineShape",
+    "label": "直线",
+    "propValue": "",
+    "icon": "zhixian",
+    "style": {
+      "rotate": 0,
+      "opacity": 1,
+      "width": 200,
+      "height": 2,
+      "backgroundColor": "#000"
+    }
+  },
+  {
+    "animations": [],
+    "events": {},
+    "groupStyle": {},
+    "isLock": false,
+    "collapseName": "style",
+    "linkage": {
+      "duration": 0,
+      "data": [
+        {
+          "id": "",
+          "label": "",
+          "event": "",
+          "style": [
+            {
+              "key": "",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    "component": "CircleShape",
+    "label": "圆形",
+    "propValue": "&nbsp;",
+    "icon": "24gl-circle",
+    "style": {
+      "rotate": 0,
+      "opacity": 1,
+      "width": 200,
+      "height": 200,
+      "fontSize": "",
+      "fontWeight": 400,
+      "lineHeight": "",
+      "letterSpacing": 0,
+      "textAlign": "center",
+      "color": "",
+      "borderColor": "#000",
+      "borderWidth": 1,
+      "backgroundColor": "",
+      "borderStyle": "solid",
+      "borderRadius": "",
+      "verticalAlign": "middle"
+    }
+  },
+  {
+    "animations": [],
+    "events": {},
+    "groupStyle": {},
+    "isLock": false,
+    "collapseName": "style",
+    "linkage": {
+      "duration": 0,
+      "data": [
+        {
+          "id": "",
+          "label": "",
+          "event": "",
+          "style": [
+            {
+              "key": "",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    "component": "SVGStar",
+    "label": "星形",
+    "icon": "kongwujiaoxing",
+    "propValue": "",
+    "style": {
+      "rotate": 0,
+      "opacity": 1,
+      "width": 80,
+      "height": 80,
+      "fontSize": "",
+      "fontWeight": 400,
+      "lineHeight": "",
+      "letterSpacing": 0,
+      "textAlign": "center",
+      "color": "",
+      "borderColor": "#000",
+      "backgroundColor": "rgba(255, 255, 255, 1)"
+    }
+  },
+  {
+    "animations": [],
+    "events": {},
+    "groupStyle": {},
+    "isLock": false,
+    "collapseName": "style",
+    "linkage": {
+      "duration": 0,
+      "data": [
+        {
+          "id": "",
+          "label": "",
+          "event": "",
+          "style": [
+            {
+              "key": "",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    "component": "SVGTriangle",
+    "label": "三角形",
+    "icon": "xingzhuang-sanjiaoxing",
+    "propValue": "",
+    "style": {
+      "rotate": 0,
+      "opacity": 1,
+      "width": 80,
+      "height": 80,
+      "fontSize": "",
+      "fontWeight": 400,
+      "lineHeight": "",
+      "letterSpacing": 0,
+      "textAlign": "center",
+      "color": "",
+      "borderColor": "#000",
+      "backgroundColor": "rgba(255, 255, 255, 1)"
+    }
+  },
+  {
+    "animations": [],
+    "events": {},
+    "groupStyle": {},
+    "isLock": false,
+    "collapseName": "style",
+    "linkage": {
+      "duration": 0,
+      "data": [
+        {
+          "id": "",
+          "label": "",
+          "event": "",
+          "style": [
+            {
+              "key": "",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    "component": "VTable",
+    "label": "表格",
+    "icon": "biaoge",
+    "propValue": {
+      "data": [
+        [
+          "表头1",
+          "表头2",
+          "表头3"
+        ],
+        [
+          "内容1",
+          "内容2",
+          "内容3"
+        ]
+      ],
+      "stripe": true,
+      "thBold": true
+    },
+    "request": {
+      "method": "GET",
+      "data": [],
+      "url": "",
+      "series": false,
+      "time": 1000,
+      "paramType": "",
+      "requestCount": 0
+    },
+    "style": {
+      "rotate": 0,
+      "opacity": 1,
+      "width": 600,
+      "height": 200,
+      "fontSize": "",
+      "fontWeight": 400,
+      "textAlign": "center",
+      "color": "",
+      "backgroundColor": "rgba(255, 255, 255, 1)"
+    }
+  },
+  {
+    "animations": [],
+    "events": {},
+    "groupStyle": {},
+    "isLock": false,
+    "collapseName": "style",
+    "linkage": {
+      "duration": 0,
+      "data": [
+        {
+          "id": "",
+          "label": "",
+          "event": "",
+          "style": [
+            {
+              "key": "",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    "component": "VChart",
+    "label": "图表",
+    "icon": "el-icon-data-analysis",
+    "propValue": {
+      "chart": "VChart",
+      "option": {
+        "title": {
+          "text": "柱状图",
+          "show": true
+        },
+        "legend": {
+          "show": true
+        },
+        "tooltip": {
+          "show": true,
+          "trigger": "item"
+        },
+        "xAxis": {
+          "show": true,
+          "data": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ]
+        },
+        "yAxis": {},
+        "series": {
+          "type": "bar",
+          "name": "销量",
+          "data": [
+            23,
+            61,
+            35,
+            77,
+            35
+          ],
+          "itemStyle": {
+            "barBorderRadius": 5,
+            "borderWidth": 1,
+            "borderType": "solid",
+            "borderColor": "#73c0de",
+            "shadowColor": "#5470c6",
+            "shadowBlur": 3
+          }
+        }
+      }
+    },
+    "style": {
+      "rotate": 0,
+      "opacity": 1,
+      "width": 800,
+      "height": 500,
+      "borderRadius": ""
+    }
   }
 ]
 ```
@@ -241,6 +588,6 @@
 ]
 ```
 
-你作为一个技术专家，现在需要按照上面的规则来为我生成页面，并且生成的页面中每一个组件的属性都不能忽略，也不需要解释，只需要返回 JSON 数据即可。
+你作为一个技术专家，现在需要按照上面的规则来为我生成页面，并且生成的页面中每一个组件的属性都不能忽略。
 
 现在我需要生成一个海报页面，主要用于宣传编程有什么用。
