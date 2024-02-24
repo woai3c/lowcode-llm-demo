@@ -2,6 +2,13 @@
 
 低代码与大语言模型的结合实践 demo，本分支是使用 chatglm-6b 开源模型的示例代码，如果想查看 chatgpt 示例代码，请查看 [openai](https://github.com/woai3c/lowcode-llm-demo/tree/openai) 分支。
 
+## 低代码相关文档
+* [可视化拖拽组件库一些技术要点原理分析](https://github.com/woai3c/Front-end-articles/issues/19)
+* [可视化拖拽组件库一些技术要点原理分析（二）](https://github.com/woai3c/Front-end-articles/issues/20)
+* [可视化拖拽组件库一些技术要点原理分析（三）](https://github.com/woai3c/Front-end-articles/issues/21)
+* [可视化拖拽组件库一些技术要点原理分析（四）](https://github.com/woai3c/Front-end-articles/issues/33)
+* [低代码与大语言模型的探索实践](https://github.com/woai3c/Front-end-articles/issues/45)
+
 ## 安装
 
 请先查看这篇文章安装相关依赖 [手把手教你本地部署清华大学KEG的ChatGLM-6B模型——Windows+6GB显卡版本和CPU版本的本地部署](https://zhuanlan.zhihu.com/p/620455056)。本仓库的代码使用的是 Windows + CPU 版本。
