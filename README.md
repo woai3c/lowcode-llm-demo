@@ -1,6 +1,6 @@
 # lowcode-llm-demo
 
-低代码平台与大语言模型的结合实践 demo，本分支是使用 chatglm-6b 开源模型的示例代码，如果想查看 chatgpt 示例代码，请查看 [openai](https://github.com/woai3c/lowcode-llm-demo/tree/openai) 分支。
+低代码与大语言模型的结合实践 demo，本分支是使用 chatglm-6b 开源模型的示例代码，如果想查看 chatgpt 示例代码，请查看 [openai](https://github.com/woai3c/lowcode-llm-demo/tree/openai) 分支。
 
 ## 安装
 
