@@ -19,6 +19,7 @@
 按照文章中的要求安装了 TDM-GCC 后发现编译 `quantization_kernels_parallel.c` 文件错误，卸载 TDM-GCC 后换了 [MinGW-w64](https://www.mingw-w64.org/downloads/) 就好了。
 
 ## 使用
+**使用前请先把仓库代码中的 `D:\\res\\lowcode-llm-demo` 替换为你项目真实的路径。**
 
 通过命令行使用：
 
